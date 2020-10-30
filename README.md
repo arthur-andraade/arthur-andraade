@@ -4,7 +4,7 @@ I've been studying and learning about the best of programing universe, and alway
 Enthusiast of IOT, augmented reality(RA), networkings and others technologys.
 
 My history with programing...
-- I’m currently developing API with [Node.js](https://nodejs.org/en/) and Python, specifically with [Flask](https://flask.palletsprojects.com/en/1.1.x/).
+- I’m used to developing API with [Node.js](https://nodejs.org/en/).
 - To part of Front-End, I'm like so much of react programing with [Vue.js](https://vuejs.org/) and [React.js](https://reactjs.org/).
 - To environment mobile, I'm often developing with [Flutter](https://flutter.dev/), and currently I'm learning litte bit about React Native.:iphone:
 
