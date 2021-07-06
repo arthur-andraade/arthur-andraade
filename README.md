@@ -1,9 +1,6 @@
 ### Hi, I'm Arthur Andrade, a Full Stack Developer 👋
 I've been studying and learning about the best of programing universe, and always looking for challenges to get better my skills.
-
-Enthusiast of IOT, augmented reality(RA), networkings and others technologies.
-
-My history with programing...
+- Enthusiast of IOT, augmented reality(RA), networkings and others technologies
 - I’m used to developing API REST
 - To part of Front-End, I'm like so much of react programing and componentization
 
